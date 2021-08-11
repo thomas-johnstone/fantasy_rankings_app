@@ -21,6 +21,7 @@ Project is created with:
 ## Project Status
 
 - v1.0: initial upload and commit. work in progress
+- v1.1: python script finalized finalized. example json output shown after scraping site.
 
 ## Setup & Launch
 
